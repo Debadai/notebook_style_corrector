@@ -24,5 +24,5 @@ def process_markdown(markdown):
     return markdown
 
 # Replace 'your_notebook.ipynb' with the path to your notebook
-notebook_path = r"G:\My Drive\Programacion\Archivos\Notebooks\4. IBM Data Analysis - Respaldo 2.ipynb"
+notebook_path = r"your_notebook.ipynb"
 process_notebook(notebook_path)
